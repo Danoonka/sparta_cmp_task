@@ -2,3 +2,4 @@
 Front_end tasks
 
 - Carousel
+- Homework 2

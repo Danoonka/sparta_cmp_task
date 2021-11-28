@@ -1,0 +1,19 @@
+
+body{
+    background-color: #333333;
+}
+table{
+    border: solid red;
+}
+td{
+    border: solid black;
+    background: red;
+    color: black;
+}
+tr{
+    border: solid red;
+}
+.edit-td {
+    position: relative;
+    padding: 0;
+}

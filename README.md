@@ -1,4 +1,4 @@
-# sparta_cmp_task
+# SPARTA CAMP TASKS
 Front_end tasks
 
 - Carousel
